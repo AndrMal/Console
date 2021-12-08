@@ -1,0 +1,13 @@
+D:\Real files\Projeckts\VisualStudio\forMoney\AndrMal\cZadanie5\cZadanie5\bin\Debug\netcoreapp3.1\cZadanie5.exe
+D:\Real files\Projeckts\VisualStudio\forMoney\AndrMal\cZadanie5\cZadanie5\bin\Debug\netcoreapp3.1\cZadanie5.deps.json
+D:\Real files\Projeckts\VisualStudio\forMoney\AndrMal\cZadanie5\cZadanie5\bin\Debug\netcoreapp3.1\cZadanie5.runtimeconfig.json
+D:\Real files\Projeckts\VisualStudio\forMoney\AndrMal\cZadanie5\cZadanie5\bin\Debug\netcoreapp3.1\cZadanie5.runtimeconfig.dev.json
+D:\Real files\Projeckts\VisualStudio\forMoney\AndrMal\cZadanie5\cZadanie5\bin\Debug\netcoreapp3.1\cZadanie5.dll
+D:\Real files\Projeckts\VisualStudio\forMoney\AndrMal\cZadanie5\cZadanie5\bin\Debug\netcoreapp3.1\cZadanie5.pdb
+D:\Real files\Projeckts\VisualStudio\forMoney\AndrMal\cZadanie5\cZadanie5\obj\Debug\netcoreapp3.1\cZadanie5.csprojAssemblyReference.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\AndrMal\cZadanie5\cZadanie5\obj\Debug\netcoreapp3.1\cZadanie5.AssemblyInfoInputs.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\AndrMal\cZadanie5\cZadanie5\obj\Debug\netcoreapp3.1\cZadanie5.AssemblyInfo.cs
+D:\Real files\Projeckts\VisualStudio\forMoney\AndrMal\cZadanie5\cZadanie5\obj\Debug\netcoreapp3.1\cZadanie5.csproj.CoreCompileInputs.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\AndrMal\cZadanie5\cZadanie5\obj\Debug\netcoreapp3.1\cZadanie5.dll
+D:\Real files\Projeckts\VisualStudio\forMoney\AndrMal\cZadanie5\cZadanie5\obj\Debug\netcoreapp3.1\cZadanie5.pdb
+D:\Real files\Projeckts\VisualStudio\forMoney\AndrMal\cZadanie5\cZadanie5\obj\Debug\netcoreapp3.1\cZadanie5.genruntimeconfig.cache
